@@ -12,8 +12,8 @@
 ## 📈 GitHub Stats
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=SupunED)
 
-![Supun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupunED&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunED&layout=compact&theme=radical)
+![Supun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupunED&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunED&layout=compact&theme=tokyonight)
 
 ---
 
